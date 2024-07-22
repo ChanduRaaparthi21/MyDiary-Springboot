@@ -14,7 +14,7 @@
 <div class="first">
 <img src="<c:url value="/images/diary.jpg"/>" width="60" height="60">
 </div>
-<div class="second">MyDiary App</div>
+<div class="second"> <a href="./register" style="text-decoration: none; color: #ffffff;">MyDiary App</a> </div>
 
 </div>
 
@@ -39,7 +39,7 @@
 </form>
 <br/><br/>
 
-Existing User? <a href="./home">Login</a> here
+Existing User? <a href="./login">Login</a> here
 </div>
 
 

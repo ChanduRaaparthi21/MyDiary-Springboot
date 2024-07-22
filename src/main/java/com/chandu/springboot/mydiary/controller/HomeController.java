@@ -50,7 +50,14 @@ public class HomeController {
 	}
 	
 
-	@GetMapping("home")
+@GetMapping("/")
+	public String index(Model model){
+		return "index";
+
+	}
+
+
+	@GetMapping("login")
 	public String homepage()
 	{
 		
