@@ -1,4 +1,4 @@
-package com.twg.springboot.mydiary;
+package com.chandu.springboot.mydiary;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
